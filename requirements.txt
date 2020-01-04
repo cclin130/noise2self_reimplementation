@@ -1,0 +1,8 @@
+six
+pillow
+numpy
+scipy
+scikit-image
+ipython
+matplotlib
+jupyter
